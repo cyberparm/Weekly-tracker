@@ -67,10 +67,10 @@
 
 ### Week 11
 ✅ Finalize GitHub Portfolio  
-☐ Upload all certs  
-☐ Add TryHackMe progress  
-☐ Polish README  
-☐ Make portfolio ready to link in resume  
+- [ ] Upload all certs  
+- [ ] Add TryHackMe progress  
+- [ ] Polish README  
+- [ ] Make portfolio ready to link in resume  
 
 ### Week 12
 ✅ Resume Polish  
@@ -83,8 +83,8 @@
 
 | Week | Complete? |
 |------|-----------|
-| Week 1 | - [ ] |
-| Week 2 | - [ ] |
+| Week 1 | [] |
+| Week 2 | [] |
 | Week 3 | [ ] |
 | Week 4 | ☐ |
 | Week 5 | ☐ |
