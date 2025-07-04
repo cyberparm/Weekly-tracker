@@ -6,9 +6,9 @@
 ### Week 1
 ✅ Cisco Networking Academy → *Intro to Cybersecurity*  
 - [x] Watch all videos  
-- [ ] Complete all quizzes  
-- [ ] Download Certificate  
-- [ ] Upload cert to GitHub or LinkedIn
+- [x] Complete all quizzes  
+- [x] Download Certificate  
+- [x] Upload cert to GitHub or LinkedIn
 
 ### Week 2
 ✅ Cisco Networking Academy → *Networking Essentials*  
